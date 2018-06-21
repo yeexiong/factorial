@@ -6,6 +6,6 @@ Factorial has a very specific definition. Learn more [here](https://en.wikipedia
 
 # Example
 
-```ruby
+```python
 factorial(4) # => 24 (4 * 3 * 2 * 1)
 ```
